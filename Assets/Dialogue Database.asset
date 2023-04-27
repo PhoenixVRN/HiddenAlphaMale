@@ -83,7 +83,7 @@ MonoBehaviour:
       value: "\u0410\u043B\u0438\u0441\u0430"
       type: 0
       typeString: CustomFieldType_Text
-    portrait: {fileID: 2800000, guid: 4b5a6ea72f3ba9648b7f77a5c383a463, type: 3}
+    portrait: {fileID: 2800000, guid: 1c81864341c3bb845af54bdfa9713688, type: 3}
     spritePortrait: {fileID: 0}
     alternatePortraits: []
     spritePortraits: []
@@ -131,7 +131,7 @@ MonoBehaviour:
       value: "\u0411\u043E\u0440\u043A\u043A"
       type: 0
       typeString: CustomFieldType_Text
-    portrait: {fileID: 2800000, guid: a11a8f5f082d7c54dbc5569f1764c747, type: 3}
+    portrait: {fileID: 2800000, guid: 78a1ce2c1c8327443a028eb084bb468d, type: 3}
     spritePortrait: {fileID: 0}
     alternatePortraits: []
     spritePortraits: []
@@ -829,8 +829,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 19.266052, y: 2.5499268}
-    canvasZoom: 1.0899999
+    canvasScrollPosition: {x: 42.17432, y: 18.767569}
+    canvasZoom: 0.97
   - id: 2
     fields:
     - title: Title
